@@ -1,3 +1,5 @@
+![logo](https://github.com/jeetswami/jeetswami/blob/main/banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Jeet Swami</h1>
 <h3 align="center">A passionate Data Analyst/Python Developer</h3>
 
