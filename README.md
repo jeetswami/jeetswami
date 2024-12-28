@@ -32,8 +32,9 @@ Master of Science | Physics | Sardar Patel University | India | 05/2017
 # Projects
 
 ### 1) Predictive Analysis of Rental Bike Demand (09/2024 - 11/2024)
-
-This project focused on developing machine learning models to predict bike rental demand, leveraging two years of hourly and daily rental data along with weather and temporal factors. The analysis included data cleaning, feature engineering, and model building using techniques such as Linear Regression, Decision Trees, Random Forest, Gradient Boosting, Neural Networks, and time series models like ARIMA and SARIMAX. Key predictors, such as time of day, temperature, and humidity, were identified as significant factors influencing demand. Random Forest and Gradient Boosting models delivered the best performance, effectively capturing demand patterns while highlighting areas for improvement during peak demand periods. The project’s insights support optimized fleet management, bike station allocation, and efficient resource planning for bike-sharing systems. Future work includes integrating external data like public events or advanced deep learning models for improved prediction accuracy and real-time forecasting.
+<div style="text-align: justify;">
+This project focused on developing machine learning models to predict bike rental demand, leveraging two years of hourly and daily rental data along with weather and temporal factors. The analysis included data cleaning, feature engineering, and model building using techniques such as Linear Regression, Decision Trees, Random Forest, Gradient Boosting, Neural Networks, and time series models like ARIMA and SARIMAX. Key predictors, such as time of day, temperature, and humidity, were identified as significant factors influencing demand. Random Forest and Gradient Boosting models delivered the best performance, effectively capturing demand patterns while highlighting areas for improvement during peak demand periods. The project’s insights support optimized fleet management, bike station allocation, and efficient resource planning for bike-sharing systems. Future work includes integrating external data like public events or advanced deep learning models for improved prediction accuracy and real-time forecasting./
+</div>
 
 ### 2) Vehicle/Object Detection System (04/2024 - 06/2024)
 
