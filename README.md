@@ -2,9 +2,9 @@
 
 # EDUCATION
 
-Master of Science | Data Science | DePaul University | Chicago 11/2024 
+Master of Science | Data Science | DePaul University | Chicago | 11/2024 
 
-Master of Science | Physics | Sardar Patel University | India 05/2017
+Master of Science | Physics | Sardar Patel University | India | 05/2017
 
 # Professional Experience
 
