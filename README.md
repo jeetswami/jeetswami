@@ -9,10 +9,8 @@ Master of Science | Physics | Sardar Patel University | India 05/2017
 # Professional Experience
 
 ## Associate Data Analyst (03/2020 - 07/2022)
-
-• Analyzed academic performance data to tailor teaching strategies, resulting in improved student outcomes.
-
-• Managed and maintained datasets related to student admissions, academic performance, and departmental reports, ensuring data accuracy and consistency.
+  • Analyzed academic performance data to tailor teaching strategies, resulting in improved student outcomes.
+  • Managed and maintained datasets related to student admissions, academic performance, and departmental reports, ensuring data accuracy and consistency.
 • Developed and automated processes for tracking and reporting student grades, utilizing SQL and advanced Excel functions to generate data-driven reports.
 • Optimized SQL queries on SQL server.
 • Designed reports and presentations for management using Excel and PowerPoint, providing insights into student performance, departmental activities, and institutional growth.
