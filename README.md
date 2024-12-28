@@ -24,7 +24,9 @@ Master of Science | Physics | Sardar Patel University | India 05/2017
 ## Instructor (07/2017 - 02/2020)
 
 • Delivered lectures in physics and applied data analysis techniques to enhance student comprehension of complex topics.
+
 • Collaborated with faculty to integrate data insights into curriculum design, student engagement strategies, and resource allocation.
+
 • Assisted in preparing reports on trend analysis and predictive insights for improving academic and administrative processes.
 
 # Projects
