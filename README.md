@@ -32,9 +32,13 @@ Master of Science | Physics | Sardar Patel University | India | 05/2017
 # Technical Skills
 
 Languages: Python, SQL, R, MATLAB
+
 Platforms: Jupyter Notebook, Visual Studio Code, R Studio
+
 Frameworks: Pandas, NumPy, Scikit Learn, Matplotlib, Pytorch, SPARK SQL 
+
 Tools: Excel, PowerPoint, Tableau, MySQL, Power BI, GIT
+
 Cloud Computing: AWS EC2
 
 # Projects
