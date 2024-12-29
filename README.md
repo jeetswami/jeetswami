@@ -1,6 +1,6 @@
 # Data Analyst:
 
-# EDUCATION
+# Education
 
 Master of Science | Data Science | DePaul University | Chicago | 11/2024 
 
@@ -28,6 +28,14 @@ Master of Science | Physics | Sardar Patel University | India | 05/2017
 • Collaborated with faculty to integrate data insights into curriculum design, student engagement strategies, and resource allocation.
 
 • Assisted in preparing reports on trend analysis and predictive insights for improving academic and administrative processes.
+
+# Technical Skills
+
+Languages: Python, SQL, R, MATLAB
+Platforms: Jupyter Notebook, Visual Studio Code, R Studio
+Frameworks: Pandas, NumPy, Scikit Learn, Matplotlib, Pytorch, SPARK SQL 
+Tools: Excel, PowerPoint, Tableau, MySQL, Power BI, GIT
+Cloud Computing: AWS EC2
 
 # Projects
 
