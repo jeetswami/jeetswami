@@ -6,6 +6,18 @@ Master of Science | Data Science | DePaul University | Chicago | 11/2024
 
 Master of Science | Physics | Sardar Patel University | India | 05/2017
 
+# Technical Skills
+
+Languages: Python, SQL, R, MATLAB
+
+Platforms: Jupyter Notebook, Visual Studio Code, R Studio
+
+Frameworks: Pandas, NumPy, Scikit Learn, Matplotlib, Pytorch, SPARK SQL 
+
+Tools: Excel, PowerPoint, Tableau, MySQL, Power BI, GIT
+
+Cloud Computing: AWS EC2
+
 # Professional Experience
 
 ## Associate Data Analyst (03/2020 - 07/2022)
@@ -29,18 +41,6 @@ Master of Science | Physics | Sardar Patel University | India | 05/2017
 
 • Assisted in preparing reports on trend analysis and predictive insights for improving academic and administrative processes.
 
-# Technical Skills
-
-Languages: Python, SQL, R, MATLAB
-
-Platforms: Jupyter Notebook, Visual Studio Code, R Studio
-
-Frameworks: Pandas, NumPy, Scikit Learn, Matplotlib, Pytorch, SPARK SQL 
-
-Tools: Excel, PowerPoint, Tableau, MySQL, Power BI, GIT
-
-Cloud Computing: AWS EC2
-
 # Projects
 
 ### 1) Predictive Analysis of Rental Bike Demand (09/2024 - 11/2024)
@@ -54,4 +54,7 @@ This project developed a real-time system for vehicle and lane detection using a
 ### 3) Early Diabetes Detection Using Advanced Machine Learning Techniques (01/2024 - 03/2024)
 
 This project focuses on the early detection of diabetes using advanced machine learning techniques to address a critical global health issue. Utilizing the publicly available Pima Indian Diabetes dataset and enriched data sources, the study explored multiple models, including Random Forests, Gradient Boosting, Decision Trees, AdaBoost, and Neural Networks, to predict diabetes with high accuracy. Extensive preprocessing, such as feature selection, handling class imbalances, and visualization, improved model interpretability and performance. The AdaBoost classifier emerged as the best-performing model with 97% accuracy and an AUC of 0.98. The results demonstrate the potential of machine learning to enhance early diabetes detection, reducing risks and complications. Future work will involve hyperparameter tuning, integration of deep learning methods, and optimization techniques to further improve predictive capabilities and contribute to personalized healthcare interventions.
+
+
+
 
