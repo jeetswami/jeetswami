@@ -1,13 +1,12 @@
-# Data Analyst:
+# Data Analyst
 
-# Education
-<p align="justify">
+# Education:
+
 Master of Science | Data Science | DePaul University | Chicago | 11/2024 
-</p>
-<p align="justify">
+
 Master of Science | Physics | Sardar Patel University | India | 05/2017
-</p>
-# Technical Skills
+
+# Technical Skills:
 
 Languages: Python, SQL, R, MATLAB
 
@@ -19,27 +18,21 @@ Tools: Excel, PowerPoint, Tableau, MySQL, Power BI, GIT
 
 Cloud Computing: AWS EC2
 
-# Professional Experience
+# Professional Experience:
 
 ## Associate Data Analyst (03/2020 - 07/2022)
-<p align="justify">
+
   • Analyzed academic performance data to tailor teaching strategies, resulting in improved student outcomes.
-</p>
-<p align="justify">
+
   • Managed and maintained datasets related to student admissions, academic performance, and departmental reports, ensuring data accuracy and consistency.
-</p>
-<p align="justify">
+
   • Developed and automated processes for tracking and reporting student grades, utilizing SQL and advanced Excel functions to generate data-driven reports.
-</p>
-<p align="justify">
+
   • Optimized SQL queries on SQL server.
-</p>
-<p align="justify">
+
   • Designed reports and presentations for management using Excel and PowerPoint, providing insights into student performance, departmental activities, and institutional growth.
-</p>
-<p align="justify">
+
   • Redesigned Tableau dashboards to enhance data visualization, allowing stakeholders to track key academic metrics more effectively.
-</p>
 
 ## Instructor (07/2017 - 02/2020)
 
@@ -49,7 +42,7 @@ Cloud Computing: AWS EC2
 
 • Assisted in preparing reports on trend analysis and predictive insights for improving academic and administrative processes.
 
-# Projects
+# Projects:
 
 ### 1) Predictive Analysis of Rental Bike Demand (09/2024 - 11/2024)
 <p align="justify">
