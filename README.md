@@ -24,15 +24,20 @@ Cloud Computing: AWS EC2
 ## Associate Data Analyst (03/2020 - 07/2022)
 <p align="justify">
   • Analyzed academic performance data to tailor teaching strategies, resulting in improved student outcomes.
-
+</p>
+<p align="justify">
   • Managed and maintained datasets related to student admissions, academic performance, and departmental reports, ensuring data accuracy and consistency.
-
+</p>
+<p align="justify">
   • Developed and automated processes for tracking and reporting student grades, utilizing SQL and advanced Excel functions to generate data-driven reports.
-  
+</p>
+<p align="justify">
   • Optimized SQL queries on SQL server.
-  
+</p>
+<p align="justify">
   • Designed reports and presentations for management using Excel and PowerPoint, providing insights into student performance, departmental activities, and institutional growth.
-  
+</p>
+<p align="justify">
   • Redesigned Tableau dashboards to enhance data visualization, allowing stakeholders to track key academic metrics more effectively.
 </p>
 
