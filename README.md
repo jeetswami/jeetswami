@@ -4,8 +4,9 @@
 <p align="justify">
 Master of Science | Data Science | DePaul University | Chicago | 11/2024 
 </p>
+<p align="justify">
 Master of Science | Physics | Sardar Patel University | India | 05/2017
-
+</p>
 # Technical Skills
 
 Languages: Python, SQL, R, MATLAB
@@ -21,6 +22,7 @@ Cloud Computing: AWS EC2
 # Professional Experience
 
 ## Associate Data Analyst (03/2020 - 07/2022)
+<p align="justify">
   • Analyzed academic performance data to tailor teaching strategies, resulting in improved student outcomes.
 
   • Managed and maintained datasets related to student admissions, academic performance, and departmental reports, ensuring data accuracy and consistency.
@@ -32,7 +34,7 @@ Cloud Computing: AWS EC2
   • Designed reports and presentations for management using Excel and PowerPoint, providing insights into student performance, departmental activities, and institutional growth.
   
   • Redesigned Tableau dashboards to enhance data visualization, allowing stakeholders to track key academic metrics more effectively.
-
+</p>
 ## Instructor (07/2017 - 02/2020)
 
 • Delivered lectures in physics and applied data analysis techniques to enhance student comprehension of complex topics.
