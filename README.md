@@ -35,6 +35,7 @@ Cloud Computing: AWS EC2
   
   • Redesigned Tableau dashboards to enhance data visualization, allowing stakeholders to track key academic metrics more effectively.
 </p>
+
 ## Instructor (07/2017 - 02/2020)
 
 • Delivered lectures in physics and applied data analysis techniques to enhance student comprehension of complex topics.
